@@ -1,4 +1,4 @@
-# Test task for Pyypl Group Ltd.
+# Test task for Secret Company Ltd.
 
 To run app on an ios simulator:
 - If you have already installed Node on your system, make sure it is Node 8.3 or newer.
